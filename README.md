@@ -2,7 +2,7 @@
 
 Users can build up beam sections using common shapes (rectangles, triangles, angle sections, channel sections, etc).
 
-Sections are constructed using shapes and even other sections.
+Sections can be constructed using shapes and even other sections.
 
 <p align="center" style="font-size:160%;"><b>Tree View Visualization of Section Build up</b></p>
 
